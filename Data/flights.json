@@ -1,0 +1,51 @@
+[
+  {
+    "Day": 1,
+    "Flight": "Flight 1",
+    "Departure": "Montreal (YUL)",
+    "DepartureCode": "YUL",
+    "Arrival": "Toronto (YYZ)",
+    "ArrivalCode": "YYZ"
+  },
+  {
+    "Day": 1,
+    "Flight": "Flight 2",
+    "Departure": "Montreal (YUL)",
+    "DepartureCode": "YUL",
+    "Arrival": "Calgary (YYC)",
+    "ArrivalCode": "YYC"
+  },
+  {
+    "Day": 1,
+    "Flight": "Flight 3",
+    "Departure": "Montreal (YUL)",
+    "DepartureCode": "YUL",
+    "Arrival": "Vancouver (YVR)",
+    "ArrivalCode": "YVR"
+  },
+  {
+    "Day": 2,
+    "Flight": "Flight 4",
+    "Departure": "Montreal (YUL)",
+    "DepartureCode": "YUL",
+    "Arrival": "Toronto (YYZ)",
+    "ArrivalCode": "YYZ"
+  },
+  {
+    "Day": 2,
+    "Flight": "Flight 5",
+    "Departure": "Montreal (YUL)",
+    "DepartureCode": "YUL",
+    "Arrival": "Calgary (YYC)",
+    "ArrivalCode": "YYC"
+  },
+  {
+    "Day": 2,
+    "Flight": "Flight 6",
+    "Departure": "Montreal (YUL)",
+    "DepartureCode": "YUL",
+    "Arrival": "Vancouver (YVR)",
+    "ArrivalCode": "YVR"
+  }
+]
+
